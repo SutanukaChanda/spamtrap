@@ -1,1 +1,1 @@
-# SPAMTRAP-MAILSWEEPER
+Spamtrap is an AI-ML based software that keeps a track of spam emails sent to the particular user and with the help of our database, it keeps a track of all the already targeted spam emails, so user will also have the option to block them.
